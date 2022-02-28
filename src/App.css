@@ -1,0 +1,33 @@
+
+.App {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: 200px;
+}
+
+.ui.cards.ui.cards {
+  margin-top: 0.875em !important;
+}
+
+.cards{
+  margin:10px !important;
+  }
+
+
+  .forms{
+    width: 60%;
+    border: 3px solid black;
+  }
+
+  .container {
+    width: 30vw;
+    margin: 20vh auto;
+  }
+  .form {
+    background-color: rgb(245, 241, 241);
+    padding: 30px;
+  }
+  .gg {
+    margin: 100px;
+  }

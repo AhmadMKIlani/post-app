@@ -1,0 +1,58 @@
+.content .comments{
+    width: 60%;
+    margin: 100px auto;
+    
+}
+
+.post-form{
+    background-color:none;
+    height: 100%;
+}
+
+.field{
+    text-align: center;
+}
+
+.posts{
+    text-align: center;
+    border-radius: 5px;
+    width: 60% ;
+    font-size: 20px;
+    height: 200px;
+}
+
+.posts-body{
+    border-radius: 5px;
+    background-color:#f3809d ;
+    flex-direction: column;
+}
+
+.post-header{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 45px;
+    border: 2px solid black;
+}
+
+.Avatar img{
+    border-radius: 10px;
+    margin:2% 5%;
+}
+
+.post-content{
+    margin-left:5% ;
+    
+}
+
+.metadeta{
+    text-align: center;
+}
+.post-text{
+    line-height: 50px;
+    margin: 5%;
+    font-size: 50px;
+}
+
+
+
